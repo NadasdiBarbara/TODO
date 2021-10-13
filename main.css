@@ -1,0 +1,29 @@
+ul{
+    list-style: none;
+}
+#maxSz{
+    width: 33%;
+    border:1px solid black;
+    
+}
+#input_hatter{
+    margin: 5px;
+    padding: 3px;
+    background-color: black;
+}
+#listaGomb{
+    color: white;
+    background-color: black;
+}
+li{
+    border-bottom: 1px solid black;
+    margin-bottom: 12px;
+}
+input[type=checkbox]{
+    margin-right: 10px;
+}
+
+#deleteAll{
+    
+    margin-bottom: 3px;  
+}
